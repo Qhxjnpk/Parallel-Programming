@@ -2,8 +2,6 @@
 #include <windows.h>
 using namespace std;
 
-#define ull unsigned long long int
-
 const int n = 2048;
 int a[n];
 int LOOP = 100;
